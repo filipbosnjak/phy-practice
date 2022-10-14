@@ -2,7 +2,7 @@ import '../styles/globals.scss'
 import type { AppProps } from 'next/app'
 import { NextUIProvider, createTheme } from "@nextui-org/react";
 import useDarkMode from 'use-dark-mode';
-import CustomNavbar from './components/navbar/CustomNavbar'
+import CustomNavbar from '../components/navbar/CustomNavbar'
 
 
 function MyApp({ Component, pageProps }: AppProps) {

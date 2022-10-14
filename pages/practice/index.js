@@ -1,5 +1,5 @@
 import { Dropdown } from "@nextui-org/react";
-import Box from "../components/navbar/Box";
+import Box from "../../components/navbar/Box";
 import { useState, useEffect } from "react";
 
 export default function Practice() {
