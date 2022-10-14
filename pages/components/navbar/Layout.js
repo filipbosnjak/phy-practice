@@ -1,7 +1,7 @@
 import { Content } from "./Content.js";
 import { Box } from "../navbar/Box";
 
-export const Layout = ({ children }) => (
+const Layout = ({ children }) => (
   <Box
     css={{
       maxW: "100%",
@@ -10,3 +10,5 @@ export const Layout = ({ children }) => (
     {/* <Content /> */}
   </Box>
 );
+
+export default Layout;

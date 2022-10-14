@@ -1,6 +1,6 @@
 import { styled } from "@nextui-org/react";
 // used as a wrapper for the navbar variants radio buttons
-export const VariantsSelectorWrapper = styled("div", {
+const VariantsSelectorWrapper = styled("div", {
   dflex: "center",
   position: "fixed",
   width: "100%",
@@ -13,3 +13,5 @@ export const VariantsSelectorWrapper = styled("div", {
     gridRowGap: "$2",
   },
 });
+
+export default VariantsSelectorWrapper;
