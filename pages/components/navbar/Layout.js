@@ -1,5 +1,5 @@
 import { Content } from "./Content.js";
-import { Box } from "../navbar/Box";
+import Box from "../navbar/Box";
 
 const Layout = ({ children }) => (
   <Box

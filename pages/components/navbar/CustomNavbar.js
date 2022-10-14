@@ -10,7 +10,7 @@ import {
   Avatar,
 } from "@nextui-org/react";
 import { Layout } from "./Layout.js";
-import { AcmeLogo } from "./AcmeLogo.js";
+import AcmeLogo from "./AcmeLogo.js";
 import { VariantsSelectorWrapper } from "./VariantsSelectorWrapper.js";
 
 export default function CustomNavbar() {
