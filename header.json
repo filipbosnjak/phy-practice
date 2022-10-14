@@ -1,0 +1,10 @@
+{
+    "country": "US",
+    "costumerOriginId": "0090338171",
+    "name": "DemoTenant",
+    "admin": {
+        "firstName": "Jose",
+        "lastName": "Gonzalez",
+        "emai": "email@email.com"
+    }
+}
